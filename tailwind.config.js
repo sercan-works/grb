@@ -8,7 +8,8 @@ module.exports = withMT({
   theme: {
     extend: {
       fontFamily: {
-        'poppins': ['Poppins', 'sans-serif'] 
+        'poppins': ['Poppins', 'sans-serif'], 
+        'lobster':['Lobster','sans-serif']
       },
       backgroundImage: {
         'gradient-to-b':
