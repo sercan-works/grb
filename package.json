@@ -28,6 +28,7 @@
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.2",
     "react-final-form": "^6.5.9",
+    "react-h5-audio-player": "^3.8.6",
     "react-icons": "^4.4.0",
     "react-marquee-slider": "^1.1.5",
     "react-redux": "^8.0.2",
